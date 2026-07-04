@@ -2,9 +2,7 @@
 
 An interactive Sales Analytics Dashboard built with Python, Pandas, Matplotlib, and Streamlit** that allows users to upload a CSV file and explore customer and pet sales data through filters, KPIs, and visualizations.
 
----
 
-# 📖 Project Story
 
 Every business generates data, but raw spreadsheets rarely tell a meaningful story.
 
